@@ -46,7 +46,7 @@
      max-height: 595px;
      max-width: none;
      margin-top: 0px;
-     background-image: url("https://uploads-ssl.webflow.com/63e8e5a34b7691d5ad314313/63e975108c0997b763cf4fb9_hero%20body.png");
+     background-image: url('hero%20body.png');
      background-position: 50% 0%;
      background-size: cover;
      background-repeat: no-repeat;
