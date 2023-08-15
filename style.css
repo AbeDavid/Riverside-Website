@@ -42,11 +42,11 @@
    }
    
    .container {
-     height: 595px;
-     max-height: 595px;
+     height: 100vh;
+     max-height: 100vh;
      max-width: none;
      margin-top: 0px;
-     background-image: url('hero%20body.png');
+     background-image: url('herobody.png');
      background-position: 50% 0%;
      background-size: cover;
      background-repeat: no-repeat;
